@@ -1,4 +1,4 @@
-SENTID,SENTENCE,BACKGROUND_CLASSIFIER_PREDICTION,OJBECTIVE_CLASSIFIER_PREDICTION,METHODS_CLASSIFIER_PREDICTION,RESULTS_CLASSIFIER_PREDICTION,CONCLUSIONS_CLASSIFIER_PREDICTION,SECTION_HEADING,YF KEYSTONE ANNOTATION,YF REASON
+SENTID,SENTENCE,BACKGROUND_CLASSIFIER_PREDICTION,OJBECTIVE_CLASSIFIER_PREDICTION,METHODS_CLASSIFIER_PREDICTION,RESULTS_CLASSIFIER_PREDICTION,CONCLUSIONS_CLASSIFIER_PREDICTION,SECTION_HEADING,YF KEYSTONE ANNOTATION,NOTE
 2319130446,Conformational analyses of each compound were performed with Schrodinger MacroModel.,0,0,METHODS,0,0,3. Materials and Methods,KEYSTONE,Support decision about methods
 2123337584,"Following the protocol of Hoye and co-workers, 32 structures (corresponding to all possible diastereomers at nitrogen 15 and carbons 12, 13, 14 and 17 of 2 , 18 Fig. 2 ) were generated.",0,0,0,0,0,UNKNOWN,,
 2310914421,"The low energy conformers of each compound were generated using the Schrodinger MacroModel 11.3 software package in Maestro release 2017-4 (Schr??dinger, LLC, New York, NY, USA) as described previously.",0,0,0,0,0,3. Materials and Methods ,,
