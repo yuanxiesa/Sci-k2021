@@ -17,5 +17,8 @@ Explanation of the column headings
 **METHODS_CLASSIFIER_PREDICTION**: classfication results of the Methods classifer  
 **RESULTS_CLASSIFIER_PREDICTION**: classfication results of the Results classifer  
 **CONCLUSIONS_CLASSIFIER_PREDICTION**: classfication results of the Conclusions classifer  
+**SECTION_HEADING**: headings of the section in the paper where the sentences were found
+**YF KEYSTONE ANNOTATION**: KEYSTONE CITATION or NOT KEYTSTONE CITATION, annotated by YF for the 43 sentences with positive rhetorical category classifications
+**NOTE**: notes comes with the KEYSTONE ANNOTATION.
 
 [1] Willoughby, P.H., Jansma, M.J. and Hoye, T.R. 2014. A guide to small-molecule structure assignment through computation of ( 1 H and 13 C) NMR chemical shifts. Nature Protocols. 9, 3 (Mar. 2014), 643–660. DOI:https://doi.org/10.1038/nprot.2014.042.
