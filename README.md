@@ -1,7 +1,7 @@
 # Sci-k2021
 
 ## Doc1 description
-Doc1 is a report YF wrote for a class project during which the rhetorical classifers were built. It included details on:
+Doc1 is a report YF wrote for a class project during which the rhetorical classifers were built. It included details on:  
 (1) testing different classifers (Naive Bayes, SVM, and decision tree) 
 (2) testing two representation strategies: bag-of-words and trigram
 
