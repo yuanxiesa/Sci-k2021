@@ -6,7 +6,7 @@ Doc1 is a report YF wrote for a class project during which the rhetorical classi
 (2) testing two representation strategies: bag-of-words and trigram  
 
 ## Doc2 description
-Doc2 included the 99 citation context sentences citing the willoughby-hoye protocol [1], their rhetorical category classifications, and keystone citation annotation (by YF) of the 43 sentences that recieved a positive classification.  
+Doc2 included the 99 citation context sentences citing the willoughby-hoye protocol [1] (downloaded from scite.ai and manually cleaned), their rhetorical category classifications, and keystone citation annotation (by YF) of the 43 sentences that recieved a positive classification.  
 
 Explanation of the column headings  
 **SENTID**.: assigned sentence id by scite.ai  
@@ -17,3 +17,4 @@ Explanation of the column headings
 **RESULTS_CLASSIFIER_PREDICTION**: classfication results of the Results classifer  
 **CONCLUSIONS_CLASSIFIER_PREDICTION**: classfication results of the Conclusions classifer  
 
+[1]
