@@ -1,5 +1,8 @@
 # Sci-k2021
 
+This repository contains supplyement material for my Sci-k2021 paper  
+Yuanxi Fu, Jodi Schneider, and Catherine Blake, 2021. Finding keystone citations for constructing validity chains among research papers. In Companion Proceedings of the Web Conference 2021. DOI:https://doi.org/10.1145/3442442.3451368
+
 ## Doc1 description
 Doc1 is a report YF wrote for a class project during which the rhetorical classifers were built. It included details on:  
 (1) testing different classifers (Naive Bayes, SVM, and decision tree)   
