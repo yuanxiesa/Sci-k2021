@@ -1,7 +1,7 @@
 # Sci-k2021
 
 This repository contains supplyement material for my Sci-k2021 paper  
-Yuanxi Fu, Jodi Schneider, and Catherine Blake, 2021. Finding keystone citations for constructing validity chains among research papers. In Companion Proceedings of the Web Conference 2021. DOI:https://doi.org/10.1145/3442442.3451368
+Yuanxi Fu, Jodi Schneider, and Catherine Blake, 2021. Finding keystone citations for constructing validity chains among research papers. In Companion Proceedings of the Web Conference 2021. DOI: https://doi.org/10.1145/3442442.3451368
 
 ## Doc1 description
 Doc1 is a report YF wrote for a class project during which the rhetorical classifers were built. It included details on:  
@@ -39,4 +39,4 @@ Doc2 included the 99 citation context sentences citing the willoughby-hoye proto
 
 **NOTE**: notes comes with the KEYSTONE ANNOTATION.  
 
-[1] Willoughby, P.H., Jansma, M.J. and Hoye, T.R. 2014. A guide to small-molecule structure assignment through computation of ( 1 H and 13 C) NMR chemical shifts. Nature Protocols. 9, 3 (Mar. 2014), 643–660. DOI:https://doi.org/10.1038/nprot.2014.042.
+[1] Willoughby, P.H., Jansma, M.J. and Hoye, T.R. 2014. A guide to small-molecule structure assignment through computation of ( 1 H and 13 C) NMR chemical shifts. Nature Protocols. 9, 3 (Mar. 2014), 643–660. DOI: https://doi.org/10.1038/nprot.2014.042.
